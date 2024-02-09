@@ -1,0 +1,3 @@
+[submodule "jds6600_python"]
+	path = jds6600_python
+	url = git@github.com:on1arf/jds6600_python.git
